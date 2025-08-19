@@ -1,0 +1,11 @@
+      - name: Generate today’s devotionals
+        run: |
+          python generate_today.py
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add today-morning.xml today-evening.xml
+          git commit -m "Update today's devotionals"
+          git push
