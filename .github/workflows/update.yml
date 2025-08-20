@@ -1,4 +1,4 @@
-name: Update Today’s Devotionals
+name: Update Today's Devotionals
 
 on:
   schedule:
@@ -18,7 +18,7 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Generate today’s devotionals
+      - name: Generate today's devotionals
         run: python generate_today.py
 
       - name: Commit and push
