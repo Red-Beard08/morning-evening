@@ -1,14 +1,15 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
     <title>Spurgeon Morning</title>
-    <link>https://github.com/Red-Beard08/morning-evening</link>
-    <description>Daily devotional (Morning)</description>
+    <link>https://red-beard08.github.io/morning-evening/</link>
+    <description>Spurgeon Morning from Spurgeon’s Morning and Evening</description>
     <item>
-      <title>Morning not found</title>
-      <description>No devotional available.</description>
-      <guid>0820M</guid>
-      <pubDate>Wed, 20 Aug 2025 13:23:24 GMT</pubDate>
+      <title>Spurgeon Morning</title>
+      <link>https://red-beard08.github.io/morning-evening/0820M.xml</link>
+      <description><![CDATA[Morning devotional not found.]]></description>
+      <guid isPermaLink="false">0820M</guid>
+      <pubDate>Wed, 20 Aug 2025 13:44:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
