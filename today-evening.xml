@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Spurgeon Evening</title>
+    <link>https://github.com/Red-Beard08/morning-evening</link>
+    <description>Daily devotional (Evening)</description>
+    <item>
+      <title>Evening not found</title>
+      <description>No devotional available.</description>
+      <guid>0820E</guid>
+      <pubDate>Wed, 20 Aug 2025 13:23:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
